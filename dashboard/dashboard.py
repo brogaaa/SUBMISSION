@@ -2,7 +2,7 @@
 #By : Erik P S
 #ID Dicoding : https://www.dicoding.com/users/erik_pontian/academies
 #Email : erik.pontian@gmail.com
-!pip install -r requirements.txt.
+
 # Import Library
 import streamlit as st
 import pandas as pd
